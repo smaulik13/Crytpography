@@ -1,0 +1,1 @@
+go → wave → dive → go → read → password
